@@ -13,6 +13,3 @@ This simple calculator project allows users to perform basic mathematical operat
 * HTML: For the structure and layout of the calculator.
 * CSS: This is for styling the calculator interface.
 * JavaScript: This is used to implement the calculator's functionality.
-## Usage
-
-
